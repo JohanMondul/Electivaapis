@@ -1,7 +1,7 @@
 <h1> Proyecto Electiva de Profundización I - Creación de APIs</h1>
 
 <h2>
-Integrantes: Johan Mondul @JohanMondul
+Integrantes: Johan Mondul @usuario-git(https://github.com/JohanMondul)
 </h2>
 
 <h3>Sprint 1</h3>
