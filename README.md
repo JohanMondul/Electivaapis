@@ -1,7 +1,9 @@
 <h1> Proyecto Electiva de Profundización I - Creación de APIs</h1>
 
 <h2>
-Integrantes: Johan Mondul @usuario-git(https://github.com/JohanMondul)
+Integrantes: 
+Johan Mondul @usuario-git(https://github.com/JohanMondul)
+Carlos Castaño @https://github.com/Carlosjct06
 </h2>
 
 <h3>Sprint 1</h3>
